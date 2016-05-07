@@ -1,0 +1,22 @@
+# ignore all files
+*
+!*/
+
+Binaries/
+Intermediate/
+
+# execption
+!*.c
+!*.cpp
+!*.h
+!*.cxx
+!*.hpp
+!*.lib
+!*.cs
+!*.uplugin
+!*.png
+!*.vcxproj
+!*.vcxproj.filters
+!*.sln
+!LICENSE
+!README

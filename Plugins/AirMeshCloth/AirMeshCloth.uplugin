@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Air Mesh Cloth",
+	"Description" : "Trial of AirMeshes paper (Direct paper link: http://matthias-mueller-fischer.ch/publications/airMeshesPreprint.pdf Video: https://www.youtube.com/watch?v=dIIYP8e2tKo)",
+	"Category" : "Examples",
+	"CreatedBy" : "massanoori",
+	"CreatedByURL" : "https://github.com/massanoori/",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "AirMeshCloth",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
